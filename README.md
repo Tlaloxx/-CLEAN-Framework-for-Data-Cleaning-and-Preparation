@@ -11,8 +11,6 @@ This version is a standardized and enriched adaptation created by **Tlaloc Alvar
 **Christine Jiang – _The ONLY Data Cleaning Framework You Need_**  
 [![Watch on YouTube](https://img.youtube.com/vi/y9wFFD2bXQM/0.jpg)](https://www.youtube.com/watch?v=y9wFFD2bXQM)
 
-<br/>
-
 Use CLEAN as a flexible, step-by-step checklist to ensure your data is tidy, structured, and analysis-ready.  
 Ideal for analysts working in Excel, Python, Power BI, SQL, or any modern data tool.
 
