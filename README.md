@@ -38,7 +38,7 @@ Ideal for analysts working in Excel, Python, Power BI, SQL, or any modern data t
 > _Find and fix common and correctable data problems._
 
 ### ✅ Steps:
-- Handle missing values  
+- Handle missing values (Blank, Nulls, etc) 
 - Remove duplicates  
 - Normalize inconsistent formatting  
 - Fix invalid entries (e.g., negative ages)
